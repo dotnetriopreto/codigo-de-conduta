@@ -2,25 +2,10 @@
 
 ![Dotnet Rio Preto logo](https://secure.meetupstatic.com/photos/event/4/9/5/2/clean_490038770.jpeg)
 
-# Uma comunidade criada por mulheres, para todas as pessoas que se identificam como mulheres.
-
-O mercado de tecnologia é um dos que mais cresce no mundo, gerando milhares de oportunidades de carreira. Ao longo de muitas décadas tivemos mulheres como pioneiras, programando os primeiros computadores digitais e tantos outros projetos que marcaram a história da humanidade. No entanto, atualmente enfrentamos um gap da presença feminina na área.
-
-Isso não acontece por que as mulheres não interesse ou não são capazes, o desafio de aprender tecnologia (seja desenvolvimento ou outra área relacionada), se inicia muito antes de tentar. Algumas das principais causas estão relacionadas à estereótipos, ambientes poucos inclusivos, representatividade e falta de referências atuais e a meios de capacitação. A representativadade é um dos pontos mias importantes, pois é muito difícil se imaginar fazendo algo quando ninguém como você está fazendo.
-
-## Somos uma comunidade de mulheres que se apoiam, baseada em um ambiente seguro, com representatividade e sororidade
-
-Nossos ambientes presenciais e online são um espaço para fortalecer e aproximar nossa rede de mulheres e comunidades, que queiram aprender ou compartilhar conteúdos relevantes, oportunidades e experiências. As organizadoras se comprometem em checar os perfis das novas ingressantes, a fim de garantir a segurança, o respeito e a harmonia do espaço.
-
-**Online,** você nos encontra no grupo [WoMakersCode – Mulheres na Tecnologia](https://www.facebook.com/groups/1586631624996019), que é um local onde você pode interagir com outras mulheres da nossa rede.
-
-**Presencialmente,** você nos encontra em nossos eventos e cursos, que acontecem em várias cidades do país. Para acompanhar o calendário, entre para o [WoMakersCode no Meetup.com.](https://meetup.com/pt-BR/WoMakersCode/)
-
-
 ## Código de Conduta
 Acreditamos em um ambiente onde todas se sintam bem-vindas e possam compartilhar seus desafios, problemas e opiniões para que a comunidade possa auxiliar no crescimento de todas. O Código de Conduta é um guia de comportamento para todos os ambientes de nossa comunidade.
 
-**🔒 A WoMakersCode deve ser um lugar seguro e convidativo para pessoas independentemente de:**
+**🔒 O Dotnet Rio Preto deve ser um lugar seguro e convidativo para pessoas independentemente de:**
 
 -	Gênero, identidade de gênero ou expressão de gênero
 -	Orientação sexual
